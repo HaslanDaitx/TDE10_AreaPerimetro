@@ -2,6 +2,7 @@ var retangulo1 = new Retangulo();
 var retangulo2 = new Retangulo(5);
 var retangulo3 = new Retangulo(4, 6);
 
+Console.Clear();
 
 Console.WriteLine($"Retângulo 1: Área = {retangulo1.CalcularArea()}, Perímetro = {retangulo1.CalcularPerimetro()}");
 Console.WriteLine($"Retângulo 2: Área = {retangulo2.CalcularArea()}, Perímetro = {retangulo2.CalcularPerimetro()}");
