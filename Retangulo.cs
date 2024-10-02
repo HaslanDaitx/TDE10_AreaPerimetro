@@ -1,5 +1,5 @@
 var retangulo1 = new Retangulo();
-var retangulo2 = new Retangulo(5, 5);
+var retangulo2 = new Retangulo(5);
 var retangulo3 = new Retangulo(4, 6);
 
 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ulbra\\Laboratorio de Programação\\TDE10\\TDE10.csproj",
+      "projectUniqueName": "D:\\Ulbra\\Laboratorio de Programação\\TDE10\\TDE10_AreaPerimetro\\TDE10.csproj",
       "projectName": "TDE10",
-      "projectPath": "D:\\Ulbra\\Laboratorio de Programação\\TDE10\\TDE10.csproj",
+      "projectPath": "D:\\Ulbra\\Laboratorio de Programação\\TDE10\\TDE10_AreaPerimetro\\TDE10.csproj",
       "packagesPath": "C:\\Users\\hasla\\.nuget\\packages\\",
-      "outputPath": "D:\\Ulbra\\Laboratorio de Programação\\TDE10\\obj\\",
+      "outputPath": "D:\\Ulbra\\Laboratorio de Programação\\TDE10\\TDE10_AreaPerimetro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hasla\\AppData\\Roaming\\NuGet\\NuGet.Config"

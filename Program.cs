@@ -8,6 +8,11 @@
         largura = 0;
         altura = 0;
     }
+    public Retangulo(double lado)
+    {
+        largura = lado;
+        altura= lado;
+    }
 
     public Retangulo (double largura, double altura)
     {
